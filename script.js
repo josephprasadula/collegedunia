@@ -6,6 +6,7 @@ let itemsPerPage = 6;
 let collegeData, k, start = 0; end = 0;
 let result;
 function renderCardGrid(array, start, end) {
+    // console.log(array);
     array?.slice(start, end).map((item) => {
         temp = `<div class="card">
         <div class=" relative w-100">
@@ -83,7 +84,7 @@ fetch(filePath)
     .then(jsonData => {
         collegeData = jsonData;
         result = jsonData;
-        console.log('college data', collegeData);
+        // console.log('college data', collegeData);
         // renderUi();
         renderCardGrid(result, 0, itemsPerPage);
         filter.addEventListener('change', (e) => {
@@ -97,7 +98,7 @@ fetch(filePath)
         search.addEventListener('change', (e) => {
             searchEvent()
         })
-        window.addEventListener('scroll', () => scrollEvent())
+        window.addEventListener('scroll', () => scrollEvent(result?.length))
     })
     .catch(error => {
         console.error("Error fetching JSON data:", error);
@@ -135,7 +136,7 @@ function filterEvent() {
     let filterValue = filter.value;
     let sorterValue = sorter.value;
     if (filterValue == '') return alert('select any filter to apply sorter')
-    console.log(filterValue, sorterValue);
+    // console.log(filterValue, sorterValue);
     if (filterValue == 'rating') {
         result = collegeData.sort(ratingCompare)
     } else if (filterValue == 'fees') {
@@ -143,14 +144,14 @@ function filterEvent() {
     } else if (filterValue == 'user-ratings') {
         result = collegeData.sort(userRatingCompare)
     }
-
+    start = 0;
     if (sorterValue == 'ascending') {
-        console.log(result);
+        // console.log(result);
         document.querySelector('.body').innerHTML = "";
         renderCardGrid(result, 0, itemsPerPage)
     } else if (sorterValue == 'descending') {
         result = result.reverse();
-        console.log(result);
+        // console.log(result);
         document.querySelector('.body').innerHTML = "";
         renderCardGrid(result, 0, itemsPerPage)
     }
@@ -159,6 +160,7 @@ function searchEvent() {
     result = [];
     let searchValue = search.value
     let regex = new RegExp(searchValue, "gi")
+    start = 0;
     if (searchValue == '') {
         document.querySelector('.body').innerHTML = "";
         result = collegeData;
@@ -171,18 +173,19 @@ function searchEvent() {
         }
     })
     document.querySelector('.body').innerHTML = "";
-    renderCardGrid(searchResult, 0, itemsPerPage)
+    renderCardGrid(result, 0, itemsPerPage)
 }
-function scrollEvent() {
+function scrollEvent(length) {
     let scrollTop = document.documentElement.scrollTop;
     let windowHeigth = window.innerHeight;
     let fullHeight = document.documentElement.scrollHeight;
+    if (start > length) return
     // console.log('scroll event', scrollTop, windowHeigth, fullHeight)
     if (scrollTop + windowHeigth >= fullHeight - 1) {
-        console.log('rendermore')
+        // console.log('rendermore')
         start += itemsPerPage;
         end = start + itemsPerPage;
-        console.log(start, end)
+        // console.log(start, end)
         renderCardGrid(result, start, end)
     }
 }
