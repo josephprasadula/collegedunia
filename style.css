@@ -1,0 +1,209 @@
+* {
+    font-size: 1rem;
+    text-transform: uppercase;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ion-icon {
+    font-size: 1.5rem;
+}
+
+/*  */
+.font-10 {
+    font-size: 10px;
+}
+
+.font-14 {
+    font-size: 14px;
+}
+
+.f-w-400 {
+    font-weight: 400;
+}
+
+.f-w-600 {
+    font-weight: 600;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.w-30 {
+    width: 30%;
+}
+
+.w-40 {
+    width: 40%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.h-40 {
+    height: 40%;
+}
+
+.h-80 {
+    height: 80%;
+}
+
+.h-20 {
+    height: 20%;
+}
+
+.flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+}
+
+.relative {
+    position: relative;
+}
+
+.border-r {
+    border-right: #d7d6d6 2px solid;
+}
+
+.border-b {
+    border-bottom: #d7d6d6 2px solid;
+}
+
+.px-1 {
+    padding: 0rem 1rem;
+}
+
+.py-1 {
+    padding: 1rem 0rem;
+}
+
+.p-10 {
+    padding: 10px;
+}
+
+.mx-1 {
+    margin: 0rem 1rem;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.my-1 {
+    margin: 1rem 0rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bg-gray {
+    background-color: #efefef;
+}
+
+/*  */
+.logo {
+    min-width: 10%;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+.body {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin: 1rem 3rem;
+}
+
+#search {
+    width: 50%;
+    text-transform: none;
+    height: 2rem;
+    padding: 5px;
+}
+
+.filter-section {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 3rem;
+}
+
+.card {
+    border: 2px rgb(99, 93, 93) solid;
+}
+
+.card-top {
+    background-image: url(./media/delhi-University-640x347.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 10rem;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.card-bottom {
+    height: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    color: #777777;
+}
+
+.college-details {
+    background-color: transparent;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 2rem;
+    color: white;
+    height: fit-content;
+}
+
+.fee,
+.rating {
+    font-size: 1.5rem;
+    color: orangered;
+}
+
+.button {
+    color: #777777;
+}
+
+.brochure-button,
+.apply-button {
+    padding: 1rem 1rem;
+    outline: 1px;
+    cursor: pointer;
+    border: 0px;
+    /* width: auto; */
+}
+
+.apply-button {
+    background-color: orangered;
+    color: white;
+}
+
+.brochure-button {
+    background-color: white;
+}

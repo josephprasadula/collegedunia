@@ -1,0 +1,998 @@
+[
+    {
+        "name": "Indian Institute of Technology Bombay",
+        "short": "IIT",
+        "location": "Mumbai, Maharashtra",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 150000
+            },
+            {
+                "semester": "2nd",
+                "amount": 150000
+            },
+            {
+                "semester": "3rd",
+                "amount": 150000
+            },
+            {
+                "semester": "4th",
+                "amount": 150000
+            },
+            {
+                "semester": "5th",
+                "amount": 150000
+            },
+            {
+                "semester": "6th",
+                "amount": 150000
+            },
+            {
+                "semester": "7th",
+                "amount": 150000
+            },
+            {
+                "semester": "8th",
+                "amount": 150000
+            }
+        ],
+        "ratings": 4.8,
+        "userReviewRatings": [
+            {
+                "user": "John",
+                "rating": 5
+            },
+            {
+                "user": "Jane",
+                "rating": 4.5
+            },
+            {
+                "user": "Mike",
+                "rating": 4.8
+            }
+        ],
+        "nirfRanking": 3,
+        "weekRanking": 172
+    },
+    {
+        "name": "Indian Institute of Technology Delhi",
+        "short": "IIT",
+        "location": "New Delhi, Delhi",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 165000
+            },
+            {
+                "semester": "2nd",
+                "amount": 165000
+            },
+            {
+                "semester": "3rd",
+                "amount": 165000
+            },
+            {
+                "semester": "4th",
+                "amount": 165000
+            },
+            {
+                "semester": "5th",
+                "amount": 165000
+            },
+            {
+                "semester": "6th",
+                "amount": 165000
+            },
+            {
+                "semester": "7th",
+                "amount": 165000
+            },
+            {
+                "semester": "8th",
+                "amount": 165000
+            }
+        ],
+        "ratings": 4.7,
+        "userReviewRatings": [
+            {
+                "user": "David",
+                "rating": 4.5
+            },
+            {
+                "user": "Emily",
+                "rating": 4.6
+            },
+            {
+                "user": "Jack",
+                "rating": 4.8
+            }
+        ],
+        "nirfRanking": 2,
+        "weekRanking": 193
+    },
+    {
+        "name": "Indian Institute of Technology Madras",
+        "short": "IIT",
+        "location": "Chennai, Tamil Nadu",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 133800
+            },
+            {
+                "semester": "2nd",
+                "amount": 133800
+            },
+            {
+                "semester": "3rd",
+                "amount": 133800
+            },
+            {
+                "semester": "4th",
+                "amount": 133800
+            },
+            {
+                "semester": "5th",
+                "amount": 133800
+            },
+            {
+                "semester": "6th",
+                "amount": 133800
+            },
+            {
+                "semester": "7th",
+                "amount": 133800
+            },
+            {
+                "semester": "8th",
+                "amount": 133800
+            }
+        ],
+        "ratings": 4.9,
+        "userReviewRatings": [
+            {
+                "user": "Sarah",
+                "rating": 5
+            },
+            {
+                "user": "Michael",
+                "rating": 4.9
+            },
+            {
+                "user": "Lucy",
+                "rating": 4.8
+            }
+        ],
+        "nirfRanking": 1,
+        "weekRanking": 141
+    },
+    {
+        "name": "Indian Institute of Technology Kharagpur",
+        "short": "IIT",
+        "location": "Kharagpur, West Bengal",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 203200
+            },
+            {
+                "semester": "2nd",
+                "amount": 203200
+            },
+            {
+                "semester": "3rd",
+                "amount": 203200
+            },
+            {
+                "semester": "4th",
+                "amount": 203200
+            },
+            {
+                "semester": "5th",
+                "amount": 203200
+            },
+            {
+                "semester": "6th",
+                "amount": 203200
+            },
+            {
+                "semester": "7th",
+                "amount": 203200
+            },
+            {
+                "semester": "8th",
+                "amount": 203200
+            }
+        ],
+        "ratings": 4.6,
+        "userReviewRatings": [
+            {
+                "user": "Mark",
+                "rating": 4.5
+            },
+            {
+                "user": "Linda",
+                "rating": 4.8
+            },
+            {
+                "user": "Jason",
+                "rating": 4.6
+            }
+        ],
+        "nirfRanking": 5,
+        "weekRanking": 289
+    },
+    {
+        "name": "Indian Institute of Technology Kanpur",
+        "short": "IIT",
+        "location": "Kanpur, Uttar Pradesh",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 150000
+            },
+            {
+                "semester": "2nd",
+                "amount": 150000
+            },
+            {
+                "semester": "3rd",
+                "amount": 150000
+            },
+            {
+                "semester": "4th",
+                "amount": 150000
+            },
+            {
+                "semester": "5th",
+                "amount": 150000
+            },
+            {
+                "semester": "6th",
+                "amount": 150000
+            },
+            {
+                "semester": "7th",
+                "amount": 150000
+            },
+            {
+                "semester": "8th",
+                "amount": 150000
+            }
+        ],
+        "ratings": 4.5,
+        "userReviewRatings": [
+            {
+                "user": "Samantha",
+                "rating": 4.4
+            },
+            {
+                "user": "William",
+                "rating": 4.5
+            },
+            {
+                "user": "Ethan",
+                "rating": 4.6
+            }
+        ],
+        "nirfRanking": 4,
+        "weekRanking": 237
+    },
+    {
+        "name": "University of Delhi",
+        "short": "UD",
+        "location": "New Delhi, Delhi",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 7000
+            },
+            {
+                "semester": "2nd",
+                "amount": 7000
+            },
+            {
+                "semester": "3rd",
+                "amount": 7000
+            },
+            {
+                "semester": "4th",
+                "amount": 7000
+            }
+        ],
+        "ratings": 4.3,
+        "userReviewRatings": [
+            {
+                "user": "Liam",
+                "rating": 4.1
+            },
+            {
+                "user": "Isabella",
+                "rating": 4.5
+            },
+            {
+                "user": "James",
+                "rating": 4.4
+            }
+        ],
+        "nirfRanking": 11,
+        "weekRanking": 50
+    },
+    {
+        "name": "Indian Institute of Technology Roorkee",
+        "short": "IIT",
+        "location": "Roorkee, Uttarakhand",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 135050
+            },
+            {
+                "semester": "2nd",
+                "amount": 135050
+            },
+            {
+                "semester": "3rd",
+                "amount": 135050
+            },
+            {
+                "semester": "4th",
+                "amount": 135050
+            },
+            {
+                "semester": "5th",
+                "amount": 135050
+            },
+            {
+                "semester": "6th",
+                "amount": 135050
+            },
+            {
+                "semester": "7th",
+                "amount": 135050
+            },
+            {
+                "semester": "8th",
+                "amount": 135050
+            }
+        ],
+        "ratings": 4.5,
+        "userReviewRatings": [
+            {
+                "user": "Ethan",
+                "rating": 4.6
+            },
+            {
+                "user": "Charlotte",
+                "rating": 4.3
+            },
+            {
+                "user": "Lucas",
+                "rating": 4.8
+            }
+        ],
+        "nirfRanking": 6,
+        "weekRanking": 255
+    },
+    {
+        "name": "Indian Institute of Science Education and Research Pune",
+        "short": "IISR",
+        "location": "Pune, Maharashtra",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 20000
+            },
+            {
+                "semester": "2nd",
+                "amount": 20000
+            },
+            {
+                "semester": "3rd",
+                "amount": 20000
+            },
+            {
+                "semester": "4th",
+                "amount": 20000
+            },
+            {
+                "semester": "5th",
+                "amount": 20000
+            },
+            {
+                "semester": "6th",
+                "amount": 20000
+            },
+            {
+                "semester": "7th",
+                "amount": 20000
+            },
+            {
+                "semester": "8th",
+                "amount": 20000
+            }
+        ],
+        "ratings": 4.2,
+        "userReviewRatings": [
+            {
+                "user": "Aarav",
+                "rating": 4.0
+            },
+            {
+                "user": "Chloe",
+                "rating": 4.4
+            },
+            {
+                "user": "Logan",
+                "rating": 4.1
+            }
+        ],
+        "nirfRanking": 24,
+        "weekRanking": 120
+    },
+    {
+        "name": "Indian Institute of Technology Guwahati",
+        "short": "IIT",
+        "location": "Guwahati, Assam",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 121400
+            },
+            {
+                "semester": "2nd",
+                "amount": 121400
+            },
+            {
+                "semester": "3rd",
+                "amount": 121400
+            },
+            {
+                "semester": "4th",
+                "amount": 121400
+            },
+            {
+                "semester": "5th",
+                "amount": 121400
+            },
+            {
+                "semester": "6th",
+                "amount": 121400
+            },
+            {
+                "semester": "7th",
+                "amount": 121400
+            },
+            {
+                "semester": "8th",
+                "amount": 121400
+            }
+        ],
+        "ratings": 4.4,
+        "userReviewRatings": [
+            {
+                "user": "Mia",
+                "rating": 4.2
+            },
+            {
+                "user": "Noah",
+                "rating": 4.5
+            },
+            {
+                "user": "Emily",
+                "rating": 4.3
+            }
+        ],
+        "nirfRanking": 7,
+        "weekRanking": 187
+    },
+    {
+        "name": "Jawaharlal Nehru University",
+        "short": "JNTU",
+        "location": "New Delhi, Delhi",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 3600
+            },
+            {
+                "semester": "2nd",
+                "amount": 3600
+            },
+            {
+                "semester": "3rd",
+                "amount": 3600
+            },
+            {
+                "semester": "4th",
+                "amount": 3600
+            },
+            {
+                "semester": "5th",
+                "amount": 3600
+            },
+            {
+                "semester": "6th",
+                "amount": 3600
+            },
+            {
+                "semester": "7th",
+                "amount": 3600
+            },
+            {
+                "semester": "8th",
+                "amount": 3600
+            }
+        ],
+        "ratings": 4.1,
+        "userReviewRatings": [
+            {
+                "user": "Oliver",
+                "rating": 3.9
+            },
+            {
+                "user": "Ava",
+                "rating": 4.2
+            },
+            {
+                "user": "Elijah",
+                "rating": 4.0
+            }
+        ],
+        "nirfRanking": 12,
+        "weekRanking": 64
+    },
+    {
+        "name": "University of Hyderabad",
+        "short": "UH",
+        "location": "Hyderabad, Telangana",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 4600
+            },
+            {
+                "semester": "2nd",
+                "amount": 4600
+            },
+            {
+                "semester": "3rd",
+                "amount": 4600
+            },
+            {
+                "semester": "4th",
+                "amount": 4600
+            },
+            {
+                "semester": "5th",
+                "amount": 4600
+            },
+            {
+                "semester": "6th",
+                "amount": 4600
+            },
+            {
+                "semester": "7th",
+                "amount": 4600
+            },
+            {
+                "semester": "8th",
+                "amount": 4600
+            }
+        ],
+        "ratings": 4.0,
+        "userReviewRatings": [
+            {
+                "user": "Emma",
+                "rating": 3.8
+            },
+            {
+                "user": "Mason",
+                "rating": 4.1
+            }
+        ],
+        "nirfRanking": 11,
+        "weekRanking": 92
+    },
+    {
+        "name": "Anna University",
+        "short": "AU",
+        "location": "Chennai, Tamil Nadu",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 15500
+            },
+            {
+                "semester": "2nd",
+                "amount": 15500
+            },
+            {
+                "semester": "3rd",
+                "amount": 15500
+            },
+            {
+                "semester": "4th",
+                "amount": 15500
+            },
+            {
+                "semester": "5th",
+                "amount": 15500
+            },
+            {
+                "semester": "6th",
+                "amount": 15500
+            },
+            {
+                "semester": "7th",
+                "amount": 15500
+            },
+            {
+                "semester": "8th",
+                "amount": 15500
+            }
+        ],
+        "ratings": 4.2,
+        "userReviewRatings": [
+            {
+                "user": "Sophia",
+                "rating": 4.1
+            },
+            {
+                "user": "Liam",
+                "rating": 4.3
+            },
+            {
+                "user": "Aria",
+                "rating": 4.2
+            }
+        ],
+        "nirfRanking": 9,
+        "weekRanking": 51
+    },
+    {
+        "name": "Banaras Hindu University",
+        "short": "BHU",
+        "location": "Varanasi, Uttar Pradesh",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 4500
+            },
+            {
+                "semester": "2nd",
+                "amount": 4500
+            },
+            {
+                "semester": "3rd",
+                "amount": 4500
+            },
+            {
+                "semester": "4th",
+                "amount": 4500
+            },
+            {
+                "semester": "5th",
+                "amount": 4500
+            },
+            {
+                "semester": "6th",
+                "amount": 4500
+            },
+            {
+                "semester": "7th",
+                "amount": 4500
+            },
+            {
+                "semester": "8th",
+                "amount": 4500
+            }
+        ],
+        "ratings": 4.3,
+        "userReviewRatings": [
+            {
+                "user": "Jackson",
+                "rating": 4.2
+            },
+            {
+                "user": "Isabella",
+                "rating": 4.4
+            },
+            {
+                "user": "Ethan",
+                "rating": 4.3
+            }
+        ],
+        "nirfRanking": 10,
+        "weekRanking": 87
+    },
+    {
+        "name": "University of Delhi",
+        "short": "UD",
+        "location": "New Delhi, Delhi",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 8000
+            },
+            {
+                "semester": "2nd",
+                "amount": 8000
+            },
+            {
+                "semester": "3rd",
+                "amount": 8000
+            },
+            {
+                "semester": "4th",
+                "amount": 8000
+            },
+            {
+                "semester": "5th",
+                "amount": 8000
+            },
+            {
+                "semester": "6th",
+                "amount": 8000
+            },
+            {
+                "semester": "7th",
+                "amount": 8000
+            },
+            {
+                "semester": "8th",
+                "amount": 8000
+            }
+        ],
+        "ratings": 3.9,
+        "userReviewRatings": [
+            {
+                "user": "Harper",
+                "rating": 3.7
+            },
+            {
+                "user": "Mason",
+                "rating": 4.1
+            },
+            {
+                "user": "Olivia",
+                "rating": 4.1
+            }
+        ],
+        "nirfRanking": 12,
+        "weekRanking": 96
+    },
+    {
+        "name": "Indian Institute of Technology Bombay",
+        "short": "IIT",
+        "location": "Mumbai, Maharashtra",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 100000
+            },
+            {
+                "semester": "2nd",
+                "amount": 100000
+            },
+            {
+                "semester": "3rd",
+                "amount": 100000
+            },
+            {
+                "semester": "4th",
+                "amount": 100000
+            },
+            {
+                "semester": "5th",
+                "amount": 100000
+            },
+            {
+                "semester": "6th",
+                "amount": 100000
+            },
+            {
+                "semester": "7th",
+                "amount": 100000
+            },
+            {
+                "semester": "8th",
+                "amount": 100000
+            }
+        ],
+        "ratings": 4.7,
+        "userReviewRatings": [
+            {
+                "user": "William",
+                "rating": 4.9
+            },
+            {
+                "user": "Sofia",
+                "rating": 4.6
+            },
+            {
+                "user": "James",
+                "rating": 4.7
+            }
+        ],
+        "nirfRanking": 3,
+        "weekRanking": 15
+    },
+    {
+        "name": "Indian Institute of Technology Delhi",
+        "short": "IIT",
+        "location": "New Delhi, Delhi",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 120000
+            },
+            {
+                "semester": "2nd",
+                "amount": 120000
+            },
+            {
+                "semester": "3rd",
+                "amount": 120000
+            },
+            {
+                "semester": "4th",
+                "amount": 120000
+            },
+            {
+                "semester": "5th",
+                "amount": 120000
+            },
+            {
+                "semester": "6th",
+                "amount": 120000
+            },
+            {
+                "semester": "7th",
+                "amount": 120000
+            },
+            {
+                "semester": "8th",
+                "amount": 120000
+            }
+        ],
+        "ratings": 4.4,
+        "userReviewRatings": [
+            {
+                "user": "Emma",
+                "rating": 4.5
+            },
+            {
+                "user": "Noah",
+                "rating": 4.3
+            },
+            {
+                "user": "Ava",
+                "rating": 4.4
+            }
+        ],
+        "nirfRanking": 2,
+        "weekRanking": 11
+    },
+    {
+        "name": "Indian Institute of Management Ahmedabad",
+        "short": "IIM",
+        "location": "Ahmedabad, Gujarat",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 600000
+            },
+            {
+                "semester": "2nd",
+                "amount": 600000
+            },
+            {
+                "semester": "3rd",
+                "amount": 600000
+            },
+            {
+                "semester": "4th",
+                "amount": 600000
+            }
+        ],
+        "ratings": 4.8,
+        "userReviewRatings": [
+            {
+                "user": "Sophie",
+                "rating": 4.9
+            },
+            {
+                "user": "Benjamin",
+                "rating": 4.7
+            },
+            {
+                "user": "Isabella",
+                "rating": 4.8
+            }
+        ],
+        "nirfRanking": 1,
+        "weekRanking": 3
+    },
+    {
+        "name": "Indian Institute of Management Bangalore",
+        "short": "IIM",
+        "location": "Bangalore, Karnataka",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 650000
+            },
+            {
+                "semester": "2nd",
+                "amount": 650000
+            },
+            {
+                "semester": "3rd",
+                "amount": 650000
+            },
+            {
+                "semester": "4th",
+                "amount": 650000
+            }
+        ],
+        "ratings": 4.7,
+        "userReviewRatings": [
+            {
+                "user": "Jacob",
+                "rating": 4.8
+            },
+            {
+                "user": "Mia",
+                "rating": 4.5
+            },
+            {
+                "user": "Liam",
+                "rating": 4.7
+            }
+        ],
+        "nirfRanking": 2,
+        "weekRanking": 5
+    },
+    {
+        "name": "Xavier School of Management",
+        "short": "XLRI",
+        "location": "Jamshedpur, Jharkhand",
+        "fee": [
+            {
+                "semester": "1st",
+                "amount": 550000
+            },
+            {
+                "semester": "2nd",
+                "amount": 550000
+            },
+            {
+                "semester": "3rd",
+                "amount": 550000
+            },
+            {
+                "semester": "4th",
+                "amount": 550000
+            }
+        ],
+        "ratings": 4.5,
+        "userReviewRatings": [
+            {
+                "user": "Ethan",
+                "rating": 4.6
+            },
+            {
+                "user": "Charlotte",
+                "rating": 4.4
+            },
+            {
+                "user": "Michael",
+                "rating": 4.5
+            }
+        ],
+        "nirfRanking": 9,
+        "weekRanking": 17
+    }
+]
